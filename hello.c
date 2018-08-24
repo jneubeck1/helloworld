@@ -1,7 +1,7 @@
 /**whats up
  * Author: Jeremy and Mohammed and Alec
  * Date: 2018/08/21
- *
+ *yo
  * A simple hello world program in C
  *
  */
